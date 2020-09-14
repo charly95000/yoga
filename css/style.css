@@ -71,12 +71,16 @@ h1, h2, h3{
     background-color:#c0bfd2;
 }
 
-.service, .contact, .consultation, footer, .gallery, .abonnements{
+.service, .contact, .consultation, .gallery, .abonnements{
     
     padding-top:8%;
     padding-bottom:8%;
     padding-left: 20%;
     padding-right: 20%;
+}
+
+footer{
+    padding : 4% 0
 }
 
 
@@ -87,7 +91,7 @@ h1, h2, h3{
     
 }
 
-.contact p{
+#localisation{
     font-size: 10px
 }
 
